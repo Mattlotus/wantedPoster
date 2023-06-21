@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.posterContainer{
+    border: dotted red;
+    height: 750px;
+    margin: 3em;
+    border-width: 8px;
+    background-color: yellow;
+}
+.title{
+    text-align: center;
+    border: solid black;
+    margin:.5em;
+    font-size: 52px;
+    text-decoration: underline;
+
+}
+.info{
+    font-size: 28px;
+    text-align: center;
+
+}
+
+.VashTheStampede{
+    border: solid rgb(221, 38, 38);
+    border-radius: 50%;
+    margin-left: 25%;
+}
+.description{
+    /* border: solid black; */
+    color: black;
+    margin: 1em;
+    margin-left: 35%;
+}
+.Vash{
+    margin-left: 35%;
+
+}
+.contactInfo{
+    margin-left: 35%;
+}
+.payola{
+    margin-left: 35%;
+}
